@@ -9,7 +9,7 @@ top_n_terms(x, n, wt)
 \arguments{
 \item{x}{A data frame}
 
-\item{n}{Number of rows to returns for 'top_n()'. If 'n' is positive, selects the top rows. If negative, selects the bottom rows.}
+\item{n}{Number of rows to returns for 'top_n_terms()'. If 'n' is positive, selects the top rows. If negative, selects the bottom rows.}
 
 \item{wt}{(Optional) Variable used for ordering. If not specified, defaults to the last variable in the tbl.}
 }

@@ -21,7 +21,7 @@ The LDA topic model is packaged in {topicmodels} using estimation and inference 
 
 The following document will provide an example of topic modeling using the functions present in the "TopicModelling" package to generate themes in a tweet dataset about ballot harvesting, Trump's taxes, and SCOTUS, scraped from Twitter in 2020. 
 
-# Loading the package and importing the tweet data. 
+# Loading the package and importing the tweet data
 
 ```{r}
 library(tidyverse)
